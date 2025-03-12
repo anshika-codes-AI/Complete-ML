@@ -1,0 +1,7 @@
+Hello World!
+This is a new line.
+Append operation takes place.
+Join my journey.
+First line
+Second line
+Third line
