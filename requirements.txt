@@ -1,3 +1,7 @@
 ipykernel
 numpy
-
+seaborn
+memory_profiler
+streamlit
+scikit-learn
+bs4
